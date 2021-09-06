@@ -1,0 +1,17 @@
+
+# Primeira vez que criar um repo
+
+git init
+git add .
+git commit -m "Primeiro COmit"
+git branch -M main
+git remote add origin https://github.com/vini547/Rust.git
+git push -u origin main
+
+# Seguunda vez e demais vezes que for dar push
+git add .
+git commit "Segundo comit"
+git push origin main
+
+
+
