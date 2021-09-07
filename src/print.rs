@@ -1,3 +1,4 @@
+#![allow(non_snake_case)]
 pub fn run() {
     //PRINTA NO CONSOLE
     println!("____________________");    
@@ -15,7 +16,7 @@ pub fn run() {
     println!("____________________");
     println!("Binary: {:b} 
 HEXA: {:x} 
-OCTAL: {:o}", 10051991, 10051991, 10051991);
+OCTAL: {:o}", 1991, 1991, 1991);
 //PLACE HOLDER FOR DEBUG TRAIT
     println!("____________________");
     println!("{:?}", (12, true, "hello"));
