@@ -1,3 +1,9 @@
+#![allow(non_snake_case)]
+
+mod print;
+
 fn main() {
-    println!("Hellooo, world!");
+
+ print::run();
+
 }
