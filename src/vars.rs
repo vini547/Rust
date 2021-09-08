@@ -15,8 +15,9 @@ pub fn run() {
    const ID: i32 = 001;
 
    //DEFININDO MÚLTIPLAS VARIÁVEUS DE UMA SÓ VEZ
-
    let (a, b) = ("Karl", 98);
+
+   
  
 
    println!("ID ist       >>>==|> {}", ID);
