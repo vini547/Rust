@@ -1,4 +1,5 @@
 #![allow(non_snake_case)]
+
 pub fn run() {
     //PRINTA NO CONSOLE
     println!("____________________");    
