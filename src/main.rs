@@ -3,14 +3,19 @@
 //Variáveis são immutaveis by default
 //Rust is a block-scoped language
 
+//mod cria um módulo que é uma coleção de items como funções, structs, traits impl blocks e até mesmo outros modulos
+
 //mod print;
 //mod vars;
-  mod types;
+//mod types;
+  mod strings;
+  
 
 fn main() {
 
- //vars::print();
+ //print::run();
  //vars::run();
-   types::run();
+ //types::run();
+   strings::run();
 
 }
