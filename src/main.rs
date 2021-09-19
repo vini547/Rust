@@ -17,7 +17,9 @@
 //mod functions;
 //mod point_ref;
 //mod structs;
-mod enums;
+//mod enums;
+mod cli;
+
 
 
 
@@ -40,7 +42,9 @@ fn main() {
  //functions::run();
  //point_ref::run();
  //structs::run();
- enums::run();
+ //enums::run();
+ cli::run();
+
 
 
 
